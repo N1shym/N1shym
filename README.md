@@ -23,7 +23,7 @@ Cybersecurity practitioner with a strong foundation in computer science and hand
 
 ## Licenses & Certifications
 
-- [**Certified AppSec Practitioner**]([url](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXT17MeeogMKstBf6Sd7Wld2tOqkk1dz4i1QnfdYFzb2sIQUnPK0j/DjQZ1aRaMmqD4vWrCsgZr4TpCcRJ4JBlIM=)) – The SecOps Group  
-- **[Fortinet Certified Associate]([url](https://drive.google.com/file/d/1bNbr9dO1yRv3z7vJyKKdDI0JMfGyJMTt/view))** – Fortinet  
-- **[Jr Penetration Tester]([url](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-D2GC1P5LAK.png))** – TryHackMe  
-- **[Web Fundamentals]([url](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QCKDHMIM5D.png))** – TryHackMe    
+- [**Certified AppSec Practitioner**](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXT17MeeogMKstBf6Sd7Wld2tOqkk1dz4i1QnfdYFzb2sIQUnPK0j/DjQZ1aRaMmqD4vWrCsgZr4TpCcRJ4JBlIM=) – The SecOps Group  
+- **[Fortinet Certified Associate](https://drive.google.com/file/d/1bNbr9dO1yRv3z7vJyKKdDI0JMfGyJMTt/view)** – Fortinet  
+- **[Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-D2GC1P5LAK.png)** – TryHackMe  
+- **[Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QCKDHMIM5D.png)** – TryHackMe    
