@@ -1,16 +1,30 @@
-## Hi there 👋
+## About Me
 
-<!--
-**N1shym/N1shym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity practitioner with a strong foundation in computer science and hands-on experience across key areas of security, including vulnerability assessment, threat analysis, secure system design, and ethical hacking. Actively engaged in academic, practical, and community-driven cybersecurity initiatives.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Security Skills              | Programming | Soft Skills        |
+|-----------------------------|-------------|--------------------|
+| Web Exploitation            | Python      | Team Collaboration |
+| Bug Bounty Hunting          | C           | Report Writing     |
+| Reconnaissance              | Bash        | Prompt Engineering |
+| OSINT                       |             | Problem Solving    |
+| Vulnerability Assessment    |             | Leadership         |
+| Cryptography                |             | Research           |
+| Burp Suite                  |             |                    |
+| Nmap                       |             |                    |
+| Linux                      |             |                    |
+| Splunk                     |             |                    |
+
+
+
+
+
+## Licenses & Certifications
+
+- **Certified AppSec Practitioner** – The SecOps Group  
+- **Fortinet Certified Associate** – Fortinet  
+- **Jr Penetration Tester** – TryHackMe  
+- **Web Fundamentals** – TryHackMe  
+- **Career Essentials in Generative AI** – Microsoft  
