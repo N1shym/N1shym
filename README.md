@@ -1,6 +1,6 @@
 ## About Me
 
-Cybersecurity practitioner with a strong foundation in computer science and hands-on experience across key areas of security, including vulnerability assessment, threat analysis, secure system design, and ethical hacking. Actively engaged in academic, practical, and community-driven cybersecurity initiatives.
+Cybersecurity practitioner with hands-on experience across key areas of security, including vulnerability assessment, threat analysis, secure system design, and ethical hacking. Actively engaged in academic, practical, and community-driven cybersecurity initiatives.
 
 ## Skills
 
